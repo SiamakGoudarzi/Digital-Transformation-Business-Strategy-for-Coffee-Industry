@@ -1,4 +1,4 @@
-# Mehmet Coffee - Business Plan 
+# Digital Transformation & Business Strategy for Coffee Industry
 
 ## 🇺🇸 English
 A comprehensive business plan for a coffee roastery transitioning from a "childhood dream" to a scalable enterprise. This project covers the entire value chain from direct trade to omnichannel sales.
